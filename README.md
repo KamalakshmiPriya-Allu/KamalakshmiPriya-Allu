@@ -152,6 +152,17 @@ and recommends music based on their detected mood.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KamalakshmiPriya-Allu&show_icons=true&theme=dark&hide_border=true&title_color=00C896&icon_color=00C896&text_color=ffffff&bg_color=07130F" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamalakshmiPriya-Allu&theme=dark&hide_border=true&ring=00C896&fire=00C896&currStreakLabel=00C896&background=07130F" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalakshmiPriya-Allu&layout=compact&theme=dark&hide_border=true&title_color=00C896&text_color=ffffff&bg_color=07130F" height="170"/>
+</p>
+
 
 <!-- ===================== CONNECT ===================== -->
 
