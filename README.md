@@ -152,47 +152,6 @@ and recommends music based on their detected mood.
 
 ---
 
-<!-- ===================== EDUCATION ===================== -->
-
-<h2>🎓 Education</h2>
-
-### Nadimpalli Satyanarayana Raju Institute of Technology
-
-**B.Tech in Computer Science**  
-*Aug 2023 – Present*
-
-**CGPA: 8.65 / 10.0**
-
-
-### Sri Chaitanya Junior College
-
-**BIEAP – MPC**  
-*Jul 2021 – Mar 2023*
-
-**Percentage: 85.9%**
-
-
-### Bhashyam High School
-
-**SSC – Class X**  
-*Jun 2020 – Jun 2021*
-
-**Percentage: 100%**
-
-
----
-
-<!-- ===================== CERTIFICATION ===================== -->
-
-<h2>📜 Certification</h2>
-
-### Data Analysis Using Python
-
-**Andhra Pradesh State Skill Development Corporation (APSSDC)**  
-*May 2025 – July 2025*
-
-
----
 
 <!-- ===================== CONNECT ===================== -->
 
